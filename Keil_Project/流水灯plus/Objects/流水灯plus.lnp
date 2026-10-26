@@ -1,0 +1,3 @@
+".\Objects\project.obj" 
+TO ".\Objects\流水灯plus" 
+PRINT(".\Listings\流水灯plus.m51") RAMSIZE(256) 
